@@ -12,6 +12,7 @@ backend/server
 *.dylib
 *.test
 *.out
+test.go
 
 # General
 .DS_Store
